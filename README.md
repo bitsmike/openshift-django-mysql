@@ -13,7 +13,7 @@ Create a python-2.6 application
 
 Add the MySQL cartridge.
 
-    rhc cartridge add mysql-5.1 -a django 
+    rhc cartridge add mysql-5.5 -a django 
 
 Add this upstream repo
 
